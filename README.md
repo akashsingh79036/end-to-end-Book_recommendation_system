@@ -31,3 +31,8 @@ conda activate books
 ```bash
 pip install -r requirements.txt
 ```
+
+how run
+```bash
+streamlit run app.py
+```

@@ -148,3 +148,4 @@ class AppConfiguration:
 
         except Exception as e:
             raise AppException(e, sys) from e
+
